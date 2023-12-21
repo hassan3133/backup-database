@@ -10,6 +10,7 @@
 Example: mysql -h "hostname" -u "user" –p "password"
 ```
 * After that you run the backup file 
+* Example
 ```
 MYSQL_DATABASE=""
 APP_NAME="c3s"
